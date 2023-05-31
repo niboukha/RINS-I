@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm Nisrin Boukhari a student at
 
  <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337 Coding School</a></h2>
-<h3 align="center">I love learning new things!🎓</h3>
 
 # 🏫 1337 school
 <div align="center">
@@ -21,5 +20,3 @@
 </div>
 
 <div>
-
-![Snake animation](https://github.com/RINS-I/RINS-I/blob/output/github-contribution-grid-snake.svg)
