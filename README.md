@@ -16,7 +16,7 @@ I'm a passionate **Problem-Solving Enthusiast** and a Software Engineering stude
 
 
 # 🧠 Fun Fact
-I often debug my thoughts before my code—reminding me that problem-solving starts from within.
+I often debug my thoughts before debugging my code, reminding myself that problem-solving starts from within.
 
 # 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nisrin.boukhari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisrinboukhari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisrinboukhari19@gmail.com) 
