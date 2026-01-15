@@ -13,8 +13,6 @@ I’m currently exploring and improving my skills in Python, Django, C/C++, and 
 I love the collaborative and open-source nature of the developer community and enjoy sharing my journey here on GitHub. My goal is to continue learning, build meaningful projects along the way, and contribute to and learn from amazing people and open-source communities.
 
 I’m new to Python and web development, but very excited about building things with Django, FastAPI, and React. I’m always happy to learn from others — let’s collaborate and build something cool together! 🚀
-
- <br>
  
 <h3 align="left">Favorite quote:</h3>
 <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
@@ -24,6 +22,9 @@ I’m new to Python and web development, but very excited about building things 
 <p align="left">
   <a href="https://linkedin.com/in/NisrinBoukhari" target="_blank">
     <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=35" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+	<a href="https://instagram.com/nisrin.boukhari" target="_blank">
+    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=35" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/niboukha/" target="_blank">
     <img align="center" src="https://hexmos.com/freedevtools/svg_icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="40" />
