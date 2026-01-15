@@ -6,29 +6,31 @@
 - 👯 I’m especially excited about growing as a **Python developer** and collaborating on projects  
 
 - 💬 Ask me about **Python, Django, FastAPI, React**	 -->
-I love the collaborative and open‑source nature of the developer community, and I’m excited to share my journey and projects here on GitHub.  
-My goal is to keep learning, build real‑world projects, and contribute to and learn from amazing people and open‑source communities.
+<br>
 
-<!-- Feel free to explore my repositories and connect with me — I’m always open to new opportunities and collaborations! -->
-New to Python and web dev but super excited about building things with Django, FastAPI, and React!  
-Always happy to learn from others — let’s collaborate!
+I’m currently exploring and improving my skills in Python, Django, C/C++, and React as I grow my understanding of both backend and frontend development. While I’m especially focused on becoming a stronger Python developer, I enjoy experimenting with new technologies and learning best practices through real-world use.
+
+I love the collaborative and open-source nature of the developer community and enjoy sharing my journey here on GitHub. My goal is to continue learning, build meaningful projects along the way, and contribute to and learn from amazing people and open-source communities.
+
+I’m new to Python and web development, but very excited about building things with Django, FastAPI, and React. I’m always happy to learn from others — let’s collaborate and build something cool together! 🚀
+
  <br>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs‑welcome‑brightgreen.svg?style=flat&logo=github)](https://github.com/NIBOUKHA)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=NIBOUKHA.visitor-badge)](https://github.com/NIBOUKHA)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NIBOUKHA)
-
-
+ 
 <h3 align="left">Favorite quote:</h3>
 <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
 <p>“It does not matter how slowly you go as long as you do not stop.” – Confucius</p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/NisrinBoukhari" target="_blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=35" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/niboukha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ni_boukha" target="_blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=codeforces&size=35" alt="Codeforces" /></a>
+  <a href="https://linkedin.com/in/NisrinBoukhari" target="_blank">
+    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=35" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/niboukha/" target="_blank">
+    <img align="center" src="https://hexmos.com/freedevtools/svg_icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/ni_boukha" target="_blank">
+    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=codeforces&size=35" alt="Codeforces" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,18 +74,39 @@ Always happy to learn from others — let’s collaborate!
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="GitHub Actions" width="40" height="40"/>
-  </a>
+	<a href="https://github.com/features/actions" target="_blank">
+	  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/github-actions-icon.png" alt="GitHub Actions" width="40" height="40"/>
+	</a>
 </p>
 
+<br/>
 
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-green.svg)
+<div align="center">
+	<table>
+	  <tr>
+		<td align="center">
+		  <img src="https://github-readme-stats-fast.vercel.app/api?username=niboukha&show_icons=true&theme=radical" width="350"/>
+		</td>
+		<td align="center">
+		  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niboukha&layout=compact&theme=radical" width="350"/>
+		</td>
+	  </tr>
+	  <tr>
+	    <td align="center">
+	      <img src="https://leetcard.jacoblin.cool/niboukha?theme=dark&ext=heatmap" width="350"/>
+	    </td>
+		<td align="center">
+		  <a href="https://github.com/oakoudad/badge42">
+		    <img src="https://badge.mediaplus.ma/darkblue/niboukha" alt="niboukha’s 42 stats" />
+		  </a>
+		  <br/>
+		</td>
+	  </tr>
+	</table>
+</div>
 
 <br/>
+
 <h3 align="center">
 	⬇ Check my pinned projects below and leave a ⭐️ ⬇
 </h3>
