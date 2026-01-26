@@ -1,117 +1,92 @@
-<h1 align="center">Hello Fellow < Developers/ ></h1>
+# Hi there 👋 I'm Nisrin (niboukha)
 
-<h3 align="left"> I'm NISRIN, an aspiring developer passionate about learning and building cool things!</h3>
-<!-- - 🌱 I’m currently exploring and improving my skills in **Python, Django, C/C++**, and **React**  
+**Passionate Developer | Building Clear UIs | Open-Source Enthusiast**
 
-- 👯 I’m especially excited about growing as a **Python developer** and collaborating on projects  
+I learn by building projects, contributing to open-source, and collaborating with fellow developers. I love exploring new technologies while maintaining a focus on clean, reliable, and testable code.
 
-- 💬 Ask me about **Python, Django, FastAPI, React**	 -->
-<br>
-<!-- 
-I’m currently exploring and improving my skills in Python, Django, C/C++, and React as I grow my understanding of both backend and frontend development. While I’m especially focused on becoming a stronger Python developer, I enjoy experimenting with new technologies and learning best practices through real-world use.
-<!-- 
-I love the collaborative and open-source nature of the developer community and enjoy sharing my journey here on GitHub. My goal is to continue learning, build meaningful projects along the way, and contribute to and learn from amazing people and open-source communities.
-<!-- 
-I’m new to Python and web development, but very excited about building things with Django, FastAPI, and React. I’m always happy to learn from others — let’s collaborate and build something cool together! 🚀
--->
-Passionate learner and budding software engineer focused on Python, web backends, and full-stack development. I build small projects to level up my skills, contribute to open-source, and collaborate with other developers. 🚀
- 
-<h3 align="left">Favorite quote:</h3>
-<p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
+---
 
-<p>“It does not matter how slowly you go as long as you do not stop.” – Confucius</p>
+## 🌟 What I Love
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/NisrinBoukhari" target="_blank">
-    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=35" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-	<a href="https://instagram.com/nisrin.boukhari" target="_blank">
-    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=35" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/niboukha/" target="_blank">
-    <img align="center" src="https://hexmos.com/freedevtools/svg_icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/ni_boukha" target="_blank">
-    <img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=codeforces&size=35" alt="Codeforces" />
-  </a>
-</p>
+- **🎨 Building Clear UIs** — Crafting intuitive and beautiful user experiences
+- **🚀 Exploring New Tech** — Staying curious and pushing boundaries
+- **🤝 Open-Source Collaboration** — Contributing to and learning from the community
+- **✨ Reliable Systems** — Writing testable, maintainable, and scalable code
+- **🧪 Learning by Doing** — Building projects as my primary learning method
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Vagrant" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://logo.svgcdn.com/devicon/argocd-original.svg" alt="Argo CD" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-	<a href="https://github.com/features/actions" target="_blank">
-	  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/github-actions-icon.png" alt="GitHub Actions" width="40" height="40"/>
-	</a>
-</p>
+---
 
-<br/>
+## 💻 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Database**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
 
 <div align="center">
-	<table>
-	  <tr>
-		<td align="center">
-		  <img src="https://github-readme-stats-fast.vercel.app/api?username=niboukha&show_icons=true&theme=radical" width="350"/>
-		</td>
-		<td align="center">
-		  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niboukha&layout=compact&theme=radical" width="350"/>
-		</td>
-	  </tr>
-	  <tr>
-	    <td align="center">
-	      <img src="https://leetcard.jacoblin.cool/niboukha?theme=dark&ext=heatmap" width="350"/>
-	    </td>
-		<td align="center">
-		  <a href="https://github.com/oakoudad/badge42">
-		    <img src="https://badge.mediaplus.ma/darkblue/niboukha" alt="niboukha’s 42 stats" />
-		  </a>
-		  <br/>
-		</td>
-	  </tr>
-	</table>
+  
+## 🏆 Live Metrics
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://badge.mediaplus.ma/black/niboukha" alt="42 Badge" width="300"/>
+    </td>
+    <td align="center" width="45%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=niboukha&theme=radical&hide_border=true" alt="GitHub Streak" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://leetcard.jacoblin.cool/niboukha?theme=dark&ext=heatmap" width="500" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br/>
+---
 
-<h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
-</h3>
+## 📫 Let's Connect!
+
+I'm always open to collaborating on exciting projects or just having a chat about tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NisrinBoukhari)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niboukha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/niboukha)
+
+---
+
+<div align="center">
+
+**💡 "Code is poetry, and debugging is editing."**
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate!*
+
+</div>
 
