@@ -1,21 +1,24 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
-<h3 align="center"> I'm NISRIN — an aspiring developer passionate about learning and building cool things!</h3>
 
+<h3 align="left"> I'm NISRIN, an aspiring developer passionate about learning and building cool things!</h3>
 <!-- - 🌱 I’m currently exploring and improving my skills in **Python, Django, C/C++**, and **React**  
 
 - 👯 I’m especially excited about growing as a **Python developer** and collaborating on projects  
 
 - 💬 Ask me about **Python, Django, FastAPI, React**	 -->
 <br>
-
+<!-- 
 I’m currently exploring and improving my skills in Python, Django, C/C++, and React as I grow my understanding of both backend and frontend development. While I’m especially focused on becoming a stronger Python developer, I enjoy experimenting with new technologies and learning best practices through real-world use.
-
+<!-- 
 I love the collaborative and open-source nature of the developer community and enjoy sharing my journey here on GitHub. My goal is to continue learning, build meaningful projects along the way, and contribute to and learn from amazing people and open-source communities.
-
+<!-- 
 I’m new to Python and web development, but very excited about building things with Django, FastAPI, and React. I’m always happy to learn from others — let’s collaborate and build something cool together! 🚀
+-->
+Passionate learner and budding software engineer focused on Python, web backends, and full-stack development. I build small projects to level up my skills, contribute to open-source, and collaborate with other developers. 🚀
  
 <h3 align="left">Favorite quote:</h3>
 <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
+
 <p>“It does not matter how slowly you go as long as you do not stop.” – Confucius</p>
 
 <h3 align="left">Connect with me:</h3>
