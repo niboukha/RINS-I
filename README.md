@@ -9,29 +9,26 @@
 Exploring new technologies while maintaining a focus on clean, reliable, and testable code.</i>
 </p>
 
-<br/>
 
 
 <br/>
+<br/>
+
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://badge.mediaplus.ma/black/niboukha" alt="42 Badge" width="100%"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=niboukha&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://leetcard.jacoblin.cool/niboukha?theme=dark&ext=heatmap" width="65%" alt="LeetCode Stats"/>
+    <td align="center" width="33%">
+      <img src="https://leetcard.jacoblin.cool/niboukha?theme=dark&ext=heatmap" width="100%" alt="LeetCode Stats"/>
     </td>
   </tr>
 </table>
 
-<br/>
 
 <br/>
 
@@ -44,8 +41,6 @@ Exploring new technologies while maintaining a focus on clean, reliable, and tes
 <br/>
 
 
-
-<br/>
 
 ## 📫 Let's Connect
 
@@ -66,8 +61,6 @@ Exploring new technologies while maintaining a focus on clean, reliable, and tes
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
   </a>
 </p>
-
-<br/>
 
 ---
 
